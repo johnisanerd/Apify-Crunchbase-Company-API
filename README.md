@@ -262,10 +262,18 @@ ChatGPT connects to the Apify MCP server through Developer mode (available on Ch
 
 More help: https://docs.apify.com/platform/integrations/mcp
 
+## Use it in n8n (no code)
+
+Prefer a no-code path? There is a ready-made n8n template that runs this actor for you: paste Crunchbase organization URLs, get funding totals, rounds, investors, and firmographics as rows in Google Sheets. No Crunchbase API key required.
+
+- Template: [Collect Crunchbase funding data into Google Sheets with Apify](https://n8n.io/workflows/17353-collect-crunchbase-funding-data-into-google-sheets-using-apify/)
+- It uses the official Apify node, so it works on n8n Cloud and self-hosted.
+- Self-hosting n8n? There is also a dedicated community node: [n8n-nodes-crunchbase-company-api](https://www.npmjs.com/package/n8n-nodes-crunchbase-company-api)
+
 ---
 
 [**Made with care**](https://apify.com/johnvc?fpr=9n7kx3)
 
 *Use the Crunchbase Company API to power your venture capital research, company enrichment, and CRM workflows with reliable, structured results.*
 
-Last Updated: 2026.07.11
+Last Updated: 2026.07.24
