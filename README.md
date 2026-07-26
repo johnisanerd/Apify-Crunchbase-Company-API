@@ -276,4 +276,4 @@ Prefer a no-code path? There is a ready-made n8n template that runs this actor f
 
 *Use the Crunchbase Company API to power your venture capital research, company enrichment, and CRM workflows with reliable, structured results.*
 
-Last Updated: 2026.07.24
+Last Updated: 2026.07.26
